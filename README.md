@@ -32,7 +32,7 @@ Extended Weather Forecast: Access an extended weather forecast that includes tem
 3. **Navigate to the project directory:**
 
    ```bash
-   Back-end--weatherApp
+   cd Back-end--weatherApp
    ```
 
 4. **Install dependencies:**
